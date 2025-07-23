@@ -1,0 +1,44 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+dist-ssr/
+
+# Environment variables
+.env
+.env.*.local
+*.local
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# React/Vite specific
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Express backend
+backend/node_modules/
+backend/.env
+backend/logs/
+backend/dist/
