@@ -60,7 +60,7 @@ cd frontend
 npm install
 
 ### 3. Create .env File
-In the /server folder, create a .env file:
+In the /backend folder, create a .env file:
 
 MONGO_URI=mongodb+srv://your_user:your_password@cluster.mongodb.net/notes_db?retryWrites=true&w=majority&appName=Cluster0
 PORT=5001
