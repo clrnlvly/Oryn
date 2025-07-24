@@ -7,7 +7,7 @@ Oryn is a full-stack **MERN** (MongoDB, Express.js, React, Node.js) project desi
 ---
 
 ## 🌐 Live Demo  
-[🔗 https://oryn.onrender.com](https://oryn.onrender.com)
+[🔗 https://oryn.onrender.com](https://oryn-l629.onrender.com/)
 
 ---
 
