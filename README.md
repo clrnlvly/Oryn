@@ -51,12 +51,12 @@ cd oryn
 ### 2. Install Dependencies
 Frontend:
 
-cd client
+cd backend
 npm install
 
 Backend:
 
-cd ../server
+cd frontend
 npm install
 
 ### 3. Create .env File
@@ -76,14 +76,12 @@ NODE_ENV=development
 
 ### 4. Run the App
 Backend:
-
-cd backend
-npm run dev
+  cd backend
+  npm run dev
 
 Frontend:
-
-cd frontend
-npm run dev
+  cd frontend
+  npm run dev
 
 App should now be running on:
   Frontend: http://localhost:5173
@@ -94,14 +92,11 @@ This site is intended for single-user personal use. Only one admin account is su
 
 📦 Folder Structure
 oryn/
-├── client/      # React frontend with Tailwind & daisyUI
-├── server/      # Express backend with MongoDB, Redis
+├── backend/      # React frontend with Tailwind & daisyUI
+    └── .env
+├── frontend/      # Express backend with MongoDB, Redis
 ├── README.md
-└── .env.example # Sample environment variables
 
 🧑‍💻 Author
 Lovely Clareon
-
-📄 License
-This project is open-source and available under the MIT License.
 
