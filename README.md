@@ -77,12 +77,12 @@ NODE_ENV=development
 ### 4. Run the App
 Backend:
 
-cd server
+cd backend
 npm run dev
 
 Frontend:
 
-cd ../client
+cd frontend
 npm run dev
 
 App should now be running on:
