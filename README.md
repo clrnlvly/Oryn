@@ -1,6 +1,6 @@
-# 🧿 Oryn — Personal CMS Landing Page
+# 🧿 Oryn: Personal Note-taking Website
 
-Oryn is a full-stack **MERN** (MongoDB, Express.js, React, Node.js) project designed as a one-user content-managed landing page. Styled with **Tailwind CSS** and **daisyUI**, it enables a user-friendly, aesthetic experience — ideal for showcasing personal content with full control.
+Oryn is a full-stack **MERN** (MongoDB, Express.js, React, Node.js) project designed as a one-user content-managed landing page for now using ".env". Styled with **Tailwind CSS** and **daisyUI**, it enables a user-friendly, aesthetic experience — ideal for showcasing personal content with full control.
 
 > ⚠️ Hosted on [Render](https://render.com/), so **cold starts may cause slow initial loading** on the free tier.
 
