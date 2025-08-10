@@ -4,7 +4,7 @@ Oryn is a full-stack **MERN** (MongoDB, Express.js, React, Node.js) project desi
 
 > ⚠️ Hosted on [Render](https://render.com/), so **cold starts may cause slow initial loading** on the free tier.
 
-## Youtube: https://youtu.be/pwtpFcszzM8
+## Youtube: https://youtu.be/GB5oaNSujVM
 ---
 
 ## 🌐 Live Demo  
